@@ -1,0 +1,15 @@
+#buttomT{
+    margin-left: 50px;
+}
+#card1{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+#contenQuo{
+    color: rgb(0, 0, 97);
+}
+#div-img{
+    height: 100vh;
+    background-image: url("../../images/fondo.jpeg");
+}
